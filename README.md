@@ -19,3 +19,6 @@
 ![Alt text](imgs/server.jpg)
 
 Screenshot of the POST request to register a user with hashed passwords.
+
+## **Conclusion**
+- This project demonstrates how to build a robust authentication system with Express.js and MongoDB. With this setup, you're ready to expand the project by adding features such as login functionality, token-based authentication, or user management. It's a great starting point for building secure web applications.
