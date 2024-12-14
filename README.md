@@ -14,6 +14,8 @@
 
 ![Alt text](imgs/post.jpg)
 
+![Alt text](imgs/test.jpg)
+
 ![Alt text](imgs/server.jpg)
 
 Screenshot of the POST request to register a user with hashed passwords.
